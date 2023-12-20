@@ -13,3 +13,4 @@ boto3
 flask
 enum
 requests
+paramiko>=3.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
